@@ -1,0 +1,25 @@
+{
+  "name": "discordjsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "node": "^14.15.0",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "sqlite": "^4.0.19",
+    "sqlite3": "^5.0.1",
+    "typeorm": "^0.2.31"
+  }
+}
