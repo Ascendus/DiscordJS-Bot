@@ -1,6 +1,8 @@
 <br />
 <br />
 <br />
+<h1 align="center">Discord.JS Bot Template</h1>
+<br />
 <p align="center">
     <a href="https://github.com/Ascendus/DiscordJS-Bot/releases" target="_blank">
         <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&logo=github&cacheSeconds=2592000" />
